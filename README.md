@@ -17,3 +17,6 @@ This project analyzes end-to-end e-commerce marketing funnel dynamics across mul
 1. Execute the analysis script:
    ```bash
    py task3_funnel_analysis.py
+   
+## 🔗 LinkedIn Submission Update
+[View Task 3 LinkedIn Post](PASTE_YOUR_LINKEDIN_URL_HERE)
